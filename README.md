@@ -1,1 +1,1 @@
-# cssComb-config
+.csscomb.json with css grid 
